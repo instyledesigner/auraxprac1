@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/auraxprac1/static/css/main.0e076bb4.css",
-    "main.js": "/auraxprac1/static/js/main.ddee2848.js",
+    "main.js": "/auraxprac1/static/js/main.8f35474f.js",
     "static/js/787.1ac24b73.chunk.js": "/auraxprac1/static/js/787.1ac24b73.chunk.js",
     "static/media/test.jpg": "/auraxprac1/static/media/test.a262e2c31ae1a04a0e74.jpg",
     "static/media/pro-big-1.jpg": "/auraxprac1/static/media/pro-big-1.59749cd8071fad21bc86.jpg",
@@ -20,11 +20,11 @@
     "static/media/helveticaneue_medium-webfont.woff2": "/auraxprac1/static/media/helveticaneue_medium-webfont.b078d4665d59e684c17f.woff2",
     "index.html": "/auraxprac1/index.html",
     "main.0e076bb4.css.map": "/auraxprac1/static/css/main.0e076bb4.css.map",
-    "main.ddee2848.js.map": "/auraxprac1/static/js/main.ddee2848.js.map",
+    "main.8f35474f.js.map": "/auraxprac1/static/js/main.8f35474f.js.map",
     "787.1ac24b73.chunk.js.map": "/auraxprac1/static/js/787.1ac24b73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e076bb4.css",
-    "static/js/main.ddee2848.js"
+    "static/js/main.8f35474f.js"
   ]
 }
