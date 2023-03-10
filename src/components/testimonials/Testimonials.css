@@ -1,0 +1,4 @@
+.testimonialsMainWrapper .slick-slide img.img-thumbnail-ns
+{margin:20px 0;width:150px;height:150px;border-radius:50%;display: inline-block;}
+.carousel-inner div.carousel-caption
+{right: auto !important;left: auto !important;}
