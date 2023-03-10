@@ -30,7 +30,7 @@ const Testimonials = () => {
                                 <img src="https://www.tutorialspoint.com/bootstrap/images/64.jpg" className="my-3 d-inline-block img-thumbnail-ns" alt='' />
                                 <div className="carousel-caption position-relative d-block">
                                     <h5>Second slide label</h5>
-                                    <p>Some representative placeholder content for the second slide.</p>
+                                    <p>__Some representative placeholder content for the second slide.</p>
                                 </div>
                                 </div>
                                 <div className="carousel-item">
