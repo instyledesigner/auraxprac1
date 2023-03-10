@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/auraxprac1/static/css/main.0e076bb4.css",
+    "main.js": "/auraxprac1/static/js/main.b1330ea3.js",
+    "static/js/787.1ac24b73.chunk.js": "/auraxprac1/static/js/787.1ac24b73.chunk.js",
+    "static/media/test.jpg": "/auraxprac1/static/media/test.a262e2c31ae1a04a0e74.jpg",
+    "static/media/pro-big-1.jpg": "/auraxprac1/static/media/pro-big-1.59749cd8071fad21bc86.jpg",
+    "static/media/pro-big-4.jpg": "/auraxprac1/static/media/pro-big-4.71eb9835cf1b41f852d0.jpg",
+    "static/media/pro-big-2.jpg": "/auraxprac1/static/media/pro-big-2.3dada24bb7fec37f6ef1.jpg",
+    "static/media/product1.jpg": "/auraxprac1/static/media/product1.dbdaf736d275857a4c0b.jpg",
+    "static/media/product5.jpg": "/auraxprac1/static/media/product5.7ab1c5220f82306b9434.jpg",
+    "static/media/product4.jpg": "/auraxprac1/static/media/product4.798c338a7bbc83e36ea0.jpg",
+    "static/media/pro-big-3.jpg": "/auraxprac1/static/media/pro-big-3.398ac8c996579f284039.jpg",
+    "static/media/product2.jpg": "/auraxprac1/static/media/product2.83dbb418d82c76e002e5.jpg",
+    "static/media/product6.jpg": "/auraxprac1/static/media/product6.4ff9a2747cacfaa9cfc5.jpg",
+    "static/media/helvetica_neu_bold-webfont.woff": "/auraxprac1/static/media/helvetica_neu_bold-webfont.4bb68a99409628d0b01e.woff",
+    "static/media/helveticaneue_medium-webfont.woff": "/auraxprac1/static/media/helveticaneue_medium-webfont.384d3d853ea2ac2a1ccb.woff",
+    "static/media/product3.jpg": "/auraxprac1/static/media/product3.ceb5e634026dfe29ae22.jpg",
+    "static/media/helvetica_neu_bold-webfont.woff2": "/auraxprac1/static/media/helvetica_neu_bold-webfont.7737a0c3a9258714e0c1.woff2",
+    "static/media/helveticaneue_medium-webfont.woff2": "/auraxprac1/static/media/helveticaneue_medium-webfont.b078d4665d59e684c17f.woff2",
+    "index.html": "/auraxprac1/index.html",
+    "main.0e076bb4.css.map": "/auraxprac1/static/css/main.0e076bb4.css.map",
+    "main.b1330ea3.js.map": "/auraxprac1/static/js/main.b1330ea3.js.map",
+    "787.1ac24b73.chunk.js.map": "/auraxprac1/static/js/787.1ac24b73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e076bb4.css",
+    "static/js/main.b1330ea3.js"
+  ]
+}
