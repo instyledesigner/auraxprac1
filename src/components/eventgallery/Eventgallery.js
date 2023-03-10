@@ -4,7 +4,7 @@ import './Eventgallery.css';
 const Eventgallery = () => {
   return (
   
-    <div className="containerNew">
+    <div id="eventgallery" className="containerNew">
         <div className="sliding-background"></div>
     </div>
   )
