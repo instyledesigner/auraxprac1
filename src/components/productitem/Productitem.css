@@ -1,0 +1,14 @@
+.popuptextbox
+{position:fixed;inset:0 0 0 0;display:flex;justify-content: center;align-items:center;transition: all ease-in-out 100ms; transform: scale(0,0);}
+
+a.close2
+{position:absolute;inset:0 0 0 0;background:rgba(0,0,0,0.3);}
+
+.popuptextbox:target
+{transform: scale(1,1);z-index:99;}
+
+.popuptextbox .popupcontent
+{background:#fff;width:50%;height:auto;padding:10px;position:relative;z-index:999;}
+
+.popuptextbox .popupcontent a.close
+{content:'X';position:absolute;right:-5px;top:-10px;background:red;z-index:1;width:25px;font-size:15px;color:black;text-align: center;line-height:1.4rem;opacity: 0;}

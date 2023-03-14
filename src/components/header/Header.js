@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../../img/core-img/logo.png';
 
 const Header = () => {
   return (
@@ -10,13 +9,13 @@ const Header = () => {
             </div>
             
             <div className="logo">
-                <a href="index.html"><img src={logo} alt="" /></a>
+                <a href="index.html"><span>Aurax</span>Reiki</a>
             </div>
             
             <nav className="amado-nav">
                 <ul>
                     <li className="active"><a href="index.html">Home</a></li>
-                    <li><a href="#about">About</a></li>
+                    <li><a href="#about" id='testaboutjs'>About</a></li>
                     <li><a href="#testimonials">Testimonials</a></li>
                     <li><a href="#eventgallery">Event Gallery</a></li>
                     

@@ -1,6 +1,8 @@
 const Productlist = [
         {
-            "id":1,
+            "id":"a",
+            "pplink":"#a",
+            "pplinkid":"a",
             "productthumb": "product1",
             "productlarge": "../../img/product-img/product1.jpg",
             "name": "Pendant",
@@ -8,7 +10,9 @@ const Productlist = [
             "cost": "350"
         },
         {
-            "id":2,
+            "id":"b",
+            "pplink":"#b",
+            "pplinkid":"b",
             "productthumb": "product2",
             "productlarge": "../../img/product-img/product2.jpg",
             "name": "Ring",
@@ -16,7 +20,9 @@ const Productlist = [
             "cost": "600"
         },
         {
-            "id":3,
+            "id":"c",
+            "pplink":"#c",
+            "pplinkid":"c",
             "productthumb": "product3",
             "productlarge": "../../img/product-img/product3.jpg",
             "name": "Bracelet",
@@ -24,7 +30,9 @@ const Productlist = [
             "cost": "1050"
         },
         {
-            "id":4,
+            "id":"d",
+            "pplink":"#d",
+            "pplinkid":"d",
             "productthumb": "product4",
             "productlarge": "../../img/product-img/product4.jpg",
             "name": "Stone",
@@ -32,7 +40,9 @@ const Productlist = [
             "cost": "200"
         },
         {
-            "id":5,
+            "id":"e",
+            "pplink":"#e",
+            "pplinkid":"e",
             "productthumb": "product5",
             "productlarge": "../../img/product-img/product5.jpg",
             "name": "Chain",

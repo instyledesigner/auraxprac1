@@ -525,10 +525,11 @@ img {
                 background-color: $dark-color;
             }
         }
-        .logo {
-            margin-bottom: 100px;
-            display: block;
-        }
+        .logo
+        {margin-bottom: 100px;display: block;}
+        .logo a
+        {font-family: 'Noto Serif Lao', serif;font-weight:100;font-size:2.2rem;}
+        .logo span {font-weight:900;color:#fbb710;}
         .amado-nav {
             li {
                 a {
@@ -1082,7 +1083,7 @@ img {
 
 .single-products-catagory {
     position: relative;
-    z-index: 1;
+    
     width: 33.33333%;
     top: 0;
     @media #{$breakpoint-lg} {
@@ -1678,3 +1679,24 @@ img {
 }
 
 /* ##### The End ##### */
+
+.amado-navbar-brand a
+{font-family: 'Noto Serif Lao', serif;font-weight:100;font-size:2.2rem;}
+.amado-navbar-brand a span {font-weight:900;color:#fbb710;}
+
+h2, h5, .footer-logo a
+{font-family: 'Noto Serif Lao', serif;}
+h2
+{font-weight:300;font-size:2.6rem;}
+h2 span
+{font-weight:900;font-size:2.6rem;}
+h2 span i
+{font-weight:100;font-size:2.6rem;font-style: normal;color:#fbb710;}
+h5
+{font-weight:300;font-size:1.4rem;}
+
+
+.footer-logo a
+{font-weight:100;font-size:2.6rem;font-style: normal;color:#fbb710;}
+.footer-logo a span
+{font-weight:900;font-size:2.6rem;}
