@@ -1,20 +1,20 @@
 import React from 'react';
 
 const Header = () => {
+
   return (
-    <header className='headerMainWrapper header-area clearfix'>
+    <header id='targetForBurgerMenu' className='headerMainWrapper header-area clearfix'>
             
             <div className="nav-close">
-                <i className="fa fa-close" aria-hidden="true"></i>
+                <a href='#targetForBurgerMenuClose'><i className="fa fa-close" aria-hidden="true"></i></a>
             </div>
             
             <div className="logo">
-                <a href="index.html"><span>Aurax</span>Reiki</a>
+                <a><span>Aurax</span>Reiki</a>
             </div>
-            
             <nav className="amado-nav">
                 <ul>
-                    <li className="active"><a href="index.html">Home</a></li>
+                    <li className=""><a href="/">Home</a></li>
                     <li><a href="#about" id='testaboutjs'>About</a></li>
                     <li><a href="#testimonials">Testimonials</a></li>
                     <li><a href="#eventgallery">Event Gallery</a></li>
